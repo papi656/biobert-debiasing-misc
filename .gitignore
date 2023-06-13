@@ -1,0 +1,9 @@
+datasets/*
+*.ipynb
+verify_correctness.py
+*.txt
+test.py
+read_test.py
+*.json
+__pycache__/*
+*.zip
